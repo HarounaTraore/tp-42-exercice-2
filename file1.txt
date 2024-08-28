@@ -1,0 +1,4 @@
+Bonjour, ceci est le contenu du fichier file1.txt.
+
+
+Ceci est est le contenu de la modifiation 
